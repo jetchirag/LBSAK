@@ -5,4 +5,4 @@
 # @jetchirag
 ##############################
 
-set -euo pipefail
+. config.sh
